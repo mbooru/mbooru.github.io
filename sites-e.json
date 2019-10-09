@@ -1,0 +1,64 @@
+[
+  {
+    "name": "yande.re",
+    "url": "https://yande.re",
+    "type": 0,
+    "hashSalt": "choujin-steiner--your-password--"
+  },
+  {
+    "name": "Konachan",
+    "url": "https://konachan.com",
+    "type": 0,
+    "hashSalt": "So-I-Heard-You-Like-Mupkids-?--your-password--"
+  },
+  {
+    "name": "One Yukkuri Place",
+    "url": "http://yukkuri.shii.org",
+    "type": 2,
+    "hashSalt": "masaorz-r5quenm--your-password--"
+  },
+  {
+    "name": "Danbooru",
+    "url": "https://danbooru.donmai.us",
+    "type": 2
+  },
+  {
+    "name": "Gelbooru",
+    "url": "https://gelbooru.com",
+    "type": 3
+  },
+  {
+    "name": "Safebooru",
+    "url": "https://safebooru.org",
+    "type": 3
+  },
+  {
+    "name": "Xbooru",
+    "url": "http://xbooru.com",
+    "type": 3
+  },
+  {
+    "name": "rule34.xxx",
+    "url": "https://rule34.xxx",
+    "type": 3
+  },
+  {
+    "name": "3dbooru",
+    "url": "http://behoimi.org",
+    "type": 1,
+    "hashSalt": "meganekko-heaven--your-password--"
+  },
+  {
+    "name": "e621",
+    "url": "https://e621.net",
+    "type": 1,
+    "hashSalt": ""
+  },
+  {
+    "name": "▲ Beta",
+    "url": "https://capi-v2.sankakucomplex.com",
+    "type": 4,
+    "hashSalt": ""
+  }
+]
+
